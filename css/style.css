@@ -513,6 +513,14 @@ img, svg {
     }
 
     /* Adjusted min card width */
+    .footer__social {
+        gap: 1.5rem; /* Reducing social icon spacing on tablets */
+    }
+
+    /* Footer items ko stack karne ke liye */
+    .footer__description {
+        max-width: 100%;
+    }
 }
 
 @media screen and (max-width: 480px) {
