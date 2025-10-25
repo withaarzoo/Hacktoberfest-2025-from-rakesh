@@ -543,7 +543,13 @@ img, svg {
         font-size: 0.9rem;
     }
 
+    
+
     .footer {
         padding-top: 3rem;
     }
+
 }
+
+/* Custom component imports for Hacktoberfest */
+@import url("./components/testimonials.css");
