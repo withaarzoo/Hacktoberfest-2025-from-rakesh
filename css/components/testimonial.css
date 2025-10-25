@@ -1,0 +1,21 @@
+/* Importing project variables as per CONTRIBUTING.md */
+.testimonials {
+    padding: 60px 20px;
+    background-color: var(--secondary-color); /* Using CSS Variable */
+    text-align: center;
+}
+
+.testimonials__heading {
+    font-size: 2em;
+    color: var(--text-color); /* Using CSS Variable */
+    margin-bottom: 30px;
+}
+
+.testimonial__card {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: var(--background-color);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
