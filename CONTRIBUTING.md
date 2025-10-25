@@ -6,7 +6,7 @@ This document provides a set of guidelines for contributing to the project. Foll
 
 ## Code of Conduct
 
-To ensure a welcoming and inclusive environment, we expect all contributors to adhere to a code of conduct. Please be respectful, considerate, and collaborative in all interactions. Harrassment or exclusionary behavior will not be tolerated.
+To ensure a welcoming and inclusive environment, we expect all contributors to adhere to a code of conduct. Please be respectful, considerate, and collaborative in all interactions. Harassment or exclusionary behavior will not be tolerated.
 
 ## How to Contribute
 
@@ -104,3 +104,4 @@ To maintain code consistency, please follow these guidelines.
 ## License
 
 By contributing, you agree that your contributions will be licensed under the **MIT License** that governs the project.
+
